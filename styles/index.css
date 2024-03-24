@@ -220,6 +220,14 @@ a:hover p {
         padding-left: 30px;
     }
 
+    .header {
+        margin: 0em;
+        font-size: 64px;
+        text-align: center;
+        color: white;
+        text-shadow: 5px 5px #00000020;
+    }
+
   }
 
 @media screen and (max-width: 1000px) {
