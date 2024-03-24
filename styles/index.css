@@ -213,13 +213,6 @@ a:hover p {
         text-shadow: 5px 5px #00000020;
     }
 
-    .home-heading {
-        font-size: 0.1vw;
-        text-align: center;
-        color: white;
-        text-shadow: 5px 5px #00000020;
-    }
-
     .user-img {
         height: 5em;
         border-radius: 7px;
@@ -270,7 +263,8 @@ a:hover p {
 
     .home-heading,
     #countdown {
-        font-size: 10vw;
+        margin: 0;
+        font-size: 5vh;
     }
 
     .user-container {
