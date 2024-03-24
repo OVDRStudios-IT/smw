@@ -195,6 +195,14 @@ a:hover p {
         top: 40px;
         left: 55px;
       }
+
+      .text {
+        margin: 0.5em;
+        font-size: 16px;
+        text-align: center;
+        color: #CECECE;
+        text-shadow: 2px 2px #00000020;
+    }
   }
 
 @media screen and (max-width: 1000px) {
