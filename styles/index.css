@@ -193,8 +193,8 @@ a:hover p {
         text-align: center;
         margin: 0px;
         position: relative;
-        top: 50%;
-        transform: translateY(-50%);
+        top: 70%;
+        transform: translateY(-10%);
       }
   }
 
