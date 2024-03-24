@@ -287,7 +287,7 @@ a:hover p {
     }
 
     .user-img {
-        height: 3em;
+        height: 4em;
         border-radius: 4px;
         outline: 2px solid #000000;
         margin: 0 0.5em;
@@ -295,7 +295,6 @@ a:hover p {
         pointer-events: none;
         -webkit-touch-callout: none;
     }
-
 
     .user-text {
         width: 5;
