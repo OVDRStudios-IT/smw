@@ -3,7 +3,6 @@ const splashes = ["GOON!!!",
     "Die!",
     "Enjoying the goonsesh?",
     "Keep gooning!",
-    "Zzz...",
     "*Yawn*",
     "I'm going to bed.",
     "SMW, baby!",
@@ -18,7 +17,6 @@ const splashes = ["GOON!!!",
     "Live. Laugh. Goon.",
     "I know what you are.",
     "Game over.",
-    "*YAWN*",
 ];
 
 window.addEventListener("load", (event) => {
