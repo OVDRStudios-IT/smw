@@ -36,7 +36,8 @@ body {
 .smw-logo {
     content:url("/images/smw-logo.png");
     max-width: 600px;
-    
+    pointer-events: none;
+    -webkit-touch-callout: none;
 }
 
 .wrapper {
@@ -150,6 +151,8 @@ body {
     outline: 5px solid #000000;
     margin: 0 0.5em;
     transform: rotate(-10deg) scale(0.95) translate(0px, 3px); 
+    pointer-events: none;
+    -webkit-touch-callout: none;
 }
 
 a {
@@ -231,5 +234,7 @@ a:hover p {
     .smw-logo {
         content:url("/images/smw-logo.png");
         max-width: 350px;
+        pointer-events: none;
+        -webkit-touch-callout: none;
     }
 }
