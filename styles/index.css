@@ -182,7 +182,27 @@ a:hover p {
     color: var(--secondary-color);
 }
 
+@media screen and (min-width: 1000px) {
+  .hide-on-mobile {
+    display: none;
+    margin: 0.5em;
+    font-size: 32px;
+    text-align: center;
+    color: #CECECE;
+    text-shadow: 2px 2px #00000020;
+  }
+}
+
 @media screen and (max-width: 1000px) {
+
+    .hide-on-mobile {
+        display: none;
+        margin: 0.5em;
+        font-size: 32px;
+        text-align: center;
+        color: #CECECE;
+        text-shadow: 2px 2px #00000020;
+  }
 
     body {
         background-repeat: repeat-y;
