@@ -212,7 +212,7 @@ a:hover p {
         font-size: 8vw;
     }
 
-    .smw-logo2 {
+    .smw-logo {
         content:url("/images/smw-logo.png");
         max-width: 350px;
     }
