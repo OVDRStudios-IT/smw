@@ -18,6 +18,7 @@ const splashes = ["GOON!!!",
     "Live. Laugh. Goon.",
     "I know what you are.",
     "Game over.",
+    "*YAWN*",
 ];
 
 window.addEventListener("load", (event) => {
