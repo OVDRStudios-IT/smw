@@ -286,16 +286,6 @@ a:hover p {
         font-size: 8vw;
     }
 
-    .user-img {
-        height: 4em;
-        border-radius: 4px;
-        outline: 2px solid #000000;
-        margin: 0 0.5em;
-        transform: rotate(-10deg) scale(0.95) translate(0px, 3px); 
-        pointer-events: none;
-        -webkit-touch-callout: none;
-    }
-
     .user-text {
         width: 5;
         font-size: 1em;
