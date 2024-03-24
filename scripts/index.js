@@ -21,6 +21,8 @@ const splashes = ["GOON!!!",
     "Don't stop the jelq!",
     "Edge!! Edge!! Edge!!",
     "Game over.",
+    "Don't eat ass in the halls!",
+    "FUCK YOU!!",
 ];
 
 window.addEventListener("load", (event) => {
