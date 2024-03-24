@@ -191,8 +191,8 @@ a:hover p {
       .mobileShow {
         display: inline;
         text-align: center;
-        margin: -10px;
-        position: relative;
+        position: absolute;
+        top: 40px;
       }
   }
 
