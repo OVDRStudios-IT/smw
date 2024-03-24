@@ -148,9 +148,9 @@ body {
 .user-img {
     height: 6em;
     border-radius: 8px;
-    #outline: 5px solid #000000;
+    outline: 5px solid #000000;
     margin: 0 0.5em;
-    #transform: rotate(-10deg) scale(0.95) translate(0px, 3px); 
+    transform: rotate(-10deg) scale(0.95) translate(0px, 3px); 
     pointer-events: none;
     -webkit-touch-callout: none;
 }
