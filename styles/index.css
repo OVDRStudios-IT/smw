@@ -72,6 +72,14 @@ body {
     text-shadow: 5px 5px #00000020;
 }
 
+.text {
+    margin: 0.5em;
+    font-size: 64px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px #00000020;
+}
+
 #countdown {
     color: white;
     margin: 10px 0;
