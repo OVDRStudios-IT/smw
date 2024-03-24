@@ -55,6 +55,7 @@ body {
 }
 
 .home-container {
+    white-space: normal;
     text-align: center;
     margin: 0px;
     position: relative;
