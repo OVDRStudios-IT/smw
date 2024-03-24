@@ -136,7 +136,6 @@ body {
 .user-container:hover {
     transform: scale(1.03);
     box-shadow: 0 10px 0 var(--secondary-color), 0 0 10px #00000020;
-
 }
 
 .user-container .user-img {
@@ -233,6 +232,14 @@ a:hover p {
         text-align: center;
         color: white;
         text-shadow: 5px 5px #00000020;
+    }
+
+    .user-img {
+        height: 5em;
+        border-radius: 7px;
+        outline: 4px solid #000000;
+        margin: 0 0.5em;
+        transform: rotate(-10deg) scale(0.95) translate(0px, 3px); 
     }
 
   }
