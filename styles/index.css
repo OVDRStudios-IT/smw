@@ -212,8 +212,8 @@ a:hover p {
         font-size: 8vw;
     }
 
-    .sdmp-logo {
-        content:url("/images/sdmp-logo.png");
+    .smw-logo {
+        content:url("/images/smw-logo.png");
         max-width: 350px;
     }
 }
