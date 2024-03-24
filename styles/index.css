@@ -55,7 +55,6 @@ body {
 }
 
 .home-container {
-    white-space: normal;
     text-align: center;
     margin: 0px;
     position: relative;
@@ -125,6 +124,7 @@ body {
 }
 
 .user-container {
+    white-space: normal;
     display: flex;
     background-color: var(--user-card-color);
     border-radius: 0.5em;
