@@ -132,7 +132,7 @@ body {
     height: 6em;
     border-radius: 8px;
     outline: 5px solid #3D3D3D;
-    #margin: 0 0.5em;
+    margin: 0 0.5em;
     transform: rotate(-10deg) scale(0.95) translate(0px, 3px); 
 }
 
