@@ -207,7 +207,6 @@ a:hover p {
     }
 
     .header {
-        margin: 1em;
         font-size: 64px;
         text-align: center;
         color: white;
@@ -264,7 +263,7 @@ a:hover p {
 
     .home-heading,
     #countdown {
-        margin: 0.4em;
+        margin: 0.6em;
         font-size: 5vh;
     }
 
