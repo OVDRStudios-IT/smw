@@ -254,11 +254,6 @@ a:hover p {
     animation: logo-scale forwards 3s infinite ease-in-out;
     }
 
-    .home-container {
-        position: relative;
-        transform: translateX(-50%) translateY(-50%);
-    }
-
     .home-heading {
         margin: 0.3em;
         font-size: 4vh;
