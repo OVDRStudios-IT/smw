@@ -266,7 +266,7 @@ a:hover p {
     #countdown {
         margin: 0.3em;
         font-size: 5vh;
-        text-shadow: 0.5em 0.5em #00000020;
+        text-shadow: 0.5vh 0.5vh #00000020;
     }
 
     .user-container {
