@@ -238,7 +238,7 @@ a:hover p {
     .home-container,
     .users {
         position: static; /* Reset position for responsiveness */
-        transform: translateX(-50%) translateY(-60%);  /* Reset transform for responsiveness*/
+        transform: none;  /* Reset transform for responsiveness*/
         margin: 0; /* Reset margin for responsiveness */
         text-align: center; /* Center content on mobile */
         overflow: auto;
