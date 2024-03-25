@@ -283,6 +283,7 @@ a:hover p {
         content:url("/images/smw-logo.png");
         width: 75vw;
         max-width: 350px;
+        bottom: 10px;
         pointer-events: none;
         -webkit-touch-callout: none;
     }
