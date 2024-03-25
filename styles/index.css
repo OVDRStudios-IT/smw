@@ -64,7 +64,7 @@ body {
 }
 
 .home-container img {
-    animation: logo-scale forwards 2s infinite ease-in-out;
+    animation: logo-scale forwards 3s infinite ease-in-out;
 }
 
 .home-heading {
@@ -89,13 +89,6 @@ body {
     text-align: center;
     color: #CECECE;
     text-shadow: 2px 2px #00000020;
-}
-
-#countdown {
-    color: white;
-    margin: 10px 0;
-    font-size: 80px;
-    text-shadow: 5px 5px #00000020;
 }
 
 /* #live-iframe {
@@ -257,13 +250,16 @@ a:hover p {
         flex: 0 0 auto;
     }
 
+    .home-container img {
+    animation: logo-scale forwards 3s infinite ease-in-out;
+    }
+
     .home-container {
         position: relative;
         transform: translateX(-50%) translateY(-50%);
     }
 
-    .home-heading,
-    #countdown {
+    .home-heading {
         margin: 0.3em;
         font-size: 5vh;
         text-shadow: 0.5vh 0.5vh #00000020;
