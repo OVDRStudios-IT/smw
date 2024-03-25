@@ -281,7 +281,7 @@ a:hover p {
 
     .smw-logo {
         content:url("/images/smw-logo.png");
-        width: 100vw;
+        width: 75vw;
         max-width: 350px;
         pointer-events: none;
         -webkit-touch-callout: none;
