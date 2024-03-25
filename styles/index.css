@@ -69,10 +69,10 @@ body {
 
 .home-heading {
     margin: 0.5em;
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
     color: white;
-    text-shadow: 5em 5em #00000020;
+    text-shadow: 5px 5px #00000020;
 }
 
 .header {
