@@ -220,8 +220,8 @@ a:hover p {
 @media screen and (max-width: 1000px) {
 
     body {
-        padding-right: 1vw;
-        padding-left: 1vw;
+        padding-right: 1.5vw;
+        padding-left: 1.5vw;
         background-repeat: repeat-y;
     }
     .wrapper {
