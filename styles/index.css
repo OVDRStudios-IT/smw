@@ -250,6 +250,11 @@ a:hover p {
         flex: 0 0 auto;
     }
 
+    .home-container {
+        position: relative;
+        transform: translateX(-50%) translateY(-60%);
+    }
+
     .home-container img {
     animation: logo-scale forwards 3s infinite ease-in-out;
     }
