@@ -200,7 +200,7 @@ a:hover p {
     }
 
     .header {
-        margin: 0.6em;
+        margin: 0.4em;
         font-size: 64px;
         text-align: center;
         color: white;
@@ -260,7 +260,7 @@ a:hover p {
     }
 
     .home-heading {
-        margin: 0.3em;
+        margin: 0.6em;
         font-size: 4vh;
         text-shadow: 0.5vh 0.5vh #00000020;
     }
