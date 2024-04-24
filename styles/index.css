@@ -33,7 +33,7 @@ body {
     overflow-x: hidden;
 }
 
-.testbody {
+/*body {
     animation: fadeIn 1s;
     -webkit-animation: fadeIn 1s;
     -moz-animation: fadeIn 1s;
@@ -43,7 +43,7 @@ body {
     background-image: url('/images/smw-background.png');
     background-repeat: no-repeat;
     object-fit: cover;
-    /* background-position: center; */
+    /* background-position: center; 
     background-color: var(--main-bg-color);
     font-family: 'RCT2', 'Trebuchet MS', Arial, sans-serif;
     margin: 0;
@@ -51,7 +51,7 @@ body {
     overflow-x: hidden;
     padding-right: 0px;
     padding-left: 0px;
-}
+}*/
 
 @keyframes fadeIn {
   0% { opacity: 0; }
