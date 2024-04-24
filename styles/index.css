@@ -23,7 +23,6 @@
 
 body {
     background-image: url('/images/smw-background.png');
-    background-size: 100% auto;
     background-repeat: no-repeat;
     object-fit: cover;
     /* background-position: center; */
