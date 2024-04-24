@@ -33,7 +33,24 @@ body {
     overflow-x: hidden;
     padding-right: 0px;
     padding-left: 0px;
-    overflow: hidden;
+}
+
+* {
+&::-webkit-scrollbar-thumb {
+display: none;
+background-color: blue;
+border-radius: red;
+}
+&::-webkit-scrollbar-track {
+display: none;
+background-color: transparent;
+}
+&::-webkit-scrollbar {
+display: none;
+width: 4px;
+height: 4px;
+background-color: transparent;
+}
 }
 
 .smw-logo {
