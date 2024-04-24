@@ -22,6 +22,12 @@
 }
 
 body {
+    animation: fadeIn 1s;
+    -webkit-animation: fadeIn 1s;
+    -moz-animation: fadeIn 1s;
+    -o-animation: fadeIn 1s;
+    -ms-animation: fadeIn 1s;
+ 
     background-image: url('/images/smw-background.png');
     background-size: cover;
     /* background-size: 100% auto; */
