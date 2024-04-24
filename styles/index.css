@@ -10,9 +10,9 @@
 }
 
 @keyframes logo-scale {
-    0% { transform: scale(1.0); }
-    50% { transform: scale(1.03); }
-    100% { transform: scale(1.0); }
+    0% { transform: scale(1.5); }
+    50% { transform: scale(1.53); }
+    100% { transform: scale(1.5); }
 
 }
 
