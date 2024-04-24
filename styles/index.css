@@ -25,7 +25,6 @@ body {
     background-image: url('/images/smw-background.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
-    height: auto;
     background-color: var(--main-bg-color);
     font-family: 'RCT2', 'Trebuchet MS', Arial, sans-serif;
     margin: 0;
