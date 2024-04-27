@@ -175,6 +175,8 @@ background-color: transparent;
     width: 50%;
     height: 100vh;
     padding: 12px;
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .user-wrapper {
